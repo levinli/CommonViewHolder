@@ -1,0 +1,2 @@
+# CommonViewHolder
+通用的列表的BaseAdapter以及ViewHolder，极大的简化代码，提高工作效率
